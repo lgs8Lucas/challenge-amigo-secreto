@@ -7,3 +7,5 @@
   <li><b>CSS</b> - Para a estilização visual da página;</li>
   <li><b>JavaScript</b> - Para as funcionalidades de adicionar os nomes a uma lista e sorteá-los.</li>
 </ul>
+<h2>Teste Agora!</h2>
+<p>Teste agora o site <a href="https://lgs8lucas.github.io/challenge-amigo-secreto/">clicando aqui!</a></p>
